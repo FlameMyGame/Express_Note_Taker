@@ -1,0 +1,19 @@
+{
+    "name": "note-taker",
+    "version": "1.0.0",
+    "description": "",
+    "main": "server.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node server.js"
+    },
+    "homepage": "",
+    "author": "Dawson Gunnell",
+    "license": "ISC",
+    "dependencies": {
+        "express": "^4.16.4",
+        "inquirer": "^8.2.0",
+        "mysql": "^2.18.1",
+        "path": "^0.12.7"
+    }
+}
