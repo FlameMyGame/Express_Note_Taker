@@ -7,6 +7,7 @@
 - [Installation](#installation)
 - [User](#user)
 - [Contributing](#contributing)
+- [Demonstration](#demonstration)
 - [license](#license)
 - [Questions](#questions)
 
